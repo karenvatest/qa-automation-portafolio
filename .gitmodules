@@ -1,0 +1,3 @@
+[submodule "cypress-web-framework"]
+	path = cypress-web-framework
+	url = https://github.com/karenvatest/qa-automation-portafolio.git
